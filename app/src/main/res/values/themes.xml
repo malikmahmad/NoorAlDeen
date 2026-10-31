@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.NoorAlDeen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/dark_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_mark</item>
+        <item name="postSplashScreenTheme">@style/Theme.NoorAlDeen.App</item>
+    </style>
+    <style name="Theme.NoorAlDeen.App" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">@color/soft_gold</item>
+        <item name="android:navigationBarColor">@color/dark_background</item>
+        <item name="android:statusBarColor">@color/dark_background</item>
+    </style>
+</resources>

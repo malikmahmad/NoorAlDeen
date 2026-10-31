@@ -1,0 +1,12 @@
+<resources>
+    <color name="deep_emerald">#101827</color>
+    <color name="emerald_surface">#17243A</color>
+    <color name="warm_ivory">#F6F0E5</color>
+    <color name="soft_gold">#D6B46A</color>
+    <color name="primary_text">#F6F0E5</color>
+    <color name="secondary_text">#AEB8C5</color>
+    <color name="subtle_border">#354258</color>
+    <color name="dark_background">#101827</color>
+    <color name="dark_surface">#1D2A40</color>
+    <color name="dark_primary_text">#F6F0E5</color>
+</resources>

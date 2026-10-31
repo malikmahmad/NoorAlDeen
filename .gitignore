@@ -1,0 +1,22 @@
+# Android/Gradle generated files
+.gradle/
+**/build/
+
+# IDE metadata
+.idea/
+*.iml
+
+# Local machine configuration
+local.properties
+
+# Python local environment and caches
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Generated logs and reports
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
